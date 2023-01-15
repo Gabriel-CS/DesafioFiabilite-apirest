@@ -1,0 +1,1 @@
+DROP TABLE bancario.saldo_cartao;
